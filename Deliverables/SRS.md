@@ -11,7 +11,7 @@
 | -- | -- | 
 | Eric Smrkovsky | Jedi Scrum Master |  
 | Maria Guimaraes Diniz Tomaz | Product Owner |
-| insert name | insert title |
+| Ricardo Cabrera | Testing/QA |
 | Renato Torres | Front-End Developer |
 | Juan Martinez | Back-End Developer |
 | Brandon Huynh | Back-End Developer |
